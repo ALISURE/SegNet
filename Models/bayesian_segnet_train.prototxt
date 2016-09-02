@@ -1023,8 +1023,8 @@ layer {
   bottom: "pool4_mask"
   upsample_param {
     scale: 2
-    upsample_w: 60
-    upsample_h: 45
+    upsample_w: 30
+    upsample_h: 22
   }
 }
 layer {
