@@ -2,6 +2,7 @@
 
 CamVid/ADEChallengeData2016/
 *.caffemodel
+caffemodel/
 
 # Compiled source #
 ###################
